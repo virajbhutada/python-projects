@@ -1,1 +1,1 @@
-# python-projects
+This repository gathers a range of Python projects I’ve worked on, exploring data analysis, machine learning, and automation. Each project takes on a different challenge, using Python’s libraries and tools to find practical solutions. It’s a place to share ideas and learn, whether you're interested in data insights or automation in real-world applications.
